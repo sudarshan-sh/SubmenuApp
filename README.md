@@ -4,6 +4,10 @@
 
 Basic React app that displays the submenu and modal of different links.
 
+![Submenu App-1](https://github.com/sudarshan-sh/SubmenuApp/blob/main/images/submenu-1.png)
+
+![Submenu App-2](https://github.com/sudarshan-sh/SubmenuApp/blob/main/images/submenu-2.png)
+
 ##  Functional
 
 *   Submenu would be displayed while mouse over on the different links on the navigation bar.
